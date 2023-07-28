@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ assigned projects\section 8\single linked list\bin\Debug\single linked list.exe.config
+E:\my details\personal\c sharp\ assigned projects\section 8\single linked list\bin\Debug\single linked list.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\single linked list\bin\Debug\single linked list.pdb
+E:\my details\personal\c sharp\ assigned projects\section 8\single linked list\obj\Debug\single linked list.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\single linked list\obj\Debug\single linked list.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\single linked list\obj\Debug\single linked list.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\single linked list\obj\Debug\single linked list.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\single linked list\obj\Debug\single linked list.pdb
